@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Genesis 2.1.2\n"
 "Report-Msgid-Bugs-To: StudioPress <translations@studiopress.com>\n"
 "POT-Creation-Date: 2014-07-14 18:57:53+00:00\n"
-"PO-Revision-Date: 2014-11-24 11:42+0100\n"
+"PO-Revision-Date: 2014-11-25 23:10+0100\n"
 "Last-Translator: luba lee <hola@lubalee.net>\n"
 "Language-Team: luba lee <hola@lubalee.net>\n"
 "Language: Catalan\n"
@@ -759,32 +759,33 @@ msgstr ""
 #: lib/admin/theme-settings.php:250 lib/admin/theme-settings.php:340
 #: lib/admin/theme-settings.php:432
 msgid "Custom Feeds"
-msgstr "Feeds personalitzats"
+msgstr "Fils de subscripció personalitzats"
 
 #: lib/admin/theme-settings.php:251
 msgid ""
 "If you use Feedburner to handle your rss feed(s) you can use this function "
 "to set your site's native feed to redirect to your Feedburner feed."
 msgstr ""
-"Si utilitzes Feedburner per als teus <i>feeds</i> pots fer servir aquesta "
-"funció per tal que el <i>feed</i> nadiu del teu lloc web redireccioni cap al "
-"de Feedburner."
+"Si utilitzes Feedburner per als teus fils de subscripció RSS, pots fer "
+"servir aquesta funció per tal que el fil de subscripció nadiu del teu lloc "
+"web redireccioni cap al de Feedburner."
 
 #: lib/admin/theme-settings.php:252
 msgid ""
 "By filling in the feed links calling for the main site feed, it will display "
 "as a link to Feedburner."
 msgstr ""
-"Omplir els enllaços del <i>feed</i> cridant al del lloc principal, farà que "
-"es mostri com un enllaç a Feedburner."
+"Omplir els enllaços del fil de subscripció, cridant al del lloc principal, "
+"farà que es mostri com un enllaç a Feedburner."
 
 #: lib/admin/theme-settings.php:253
 msgid ""
 "By checking the \"Redirect Feed\" box, all traffic to default feed links "
 "will be redirected to the Feedburner link instead."
 msgstr ""
-"Marcant la casella \"Redireccionar <i>feed</i>\", tot el tràfic cap als "
-"enllaços del <i>feed</i> per defecte serà redireccionat cap a Feedburner."
+"Marcant la casella \"Redireccionar el fil de subscripció\", tot el tràfic "
+"cap als enllaços del fil de subscripció per defecte serà redireccionat cap a "
+"Feedburner."
 
 #: lib/admin/theme-settings.php:257
 msgid ""
@@ -848,9 +849,9 @@ msgid ""
 "RSS feed link displays a link to the RSS feed for your site that a reader "
 "can use to subscribe to your site using the feedreader of their choice."
 msgstr ""
-"El <i>Feed</i> RSS mostra un enllaç al <i>Feed</i> RSS del teu lloc web de "
-"manera que qualsevol lector el pot fer servir per subscriure's al teu web "
-"amb el seu agregador preferit."
+"El fil de subscripció RSS mostra un enllaç al <i>Feed</i> RSS del teu lloc "
+"web de manera que qualsevol lector el pot fer servir per subscriure's al teu "
+"web amb el seu agregador preferit."
 
 #: lib/admin/theme-settings.php:280
 msgid ""
@@ -894,7 +895,7 @@ msgid ""
 msgstr ""
 "Els arxius inclouen qualsevol pàgina que faci servir la plantilla de blog, "
 "pàgines de categoria, pàgines d'etiqueta, arxius cronològics, arxius d'autor "
-"i les darreres entrades quan no hi ha pàgina d'inici a mida."
+"i les darreres entrades quan no hi ha pàgina d'inici personalitzada."
 
 #: lib/admin/theme-settings.php:298
 msgid ""
@@ -927,8 +928,8 @@ msgid ""
 msgstr ""
 "El paràmetre \"Mostra un extracte de l'entrada\" farà que n'apareguin les "
 "primeres 55 paraules i també en treurà el format o qualsevol HTML que hi "
-"hagi, inclòs l'extracte a mida que hagis preparat a la pantalla de l'entrada "
-"en qüestió."
+"hagi, inclòs l'extracte personalitzat que hagis preparat a la pantalla de "
+"l'entrada en qüestió."
 
 #: lib/admin/theme-settings.php:301
 msgid ""
@@ -1050,10 +1051,10 @@ msgid ""
 "in a blog format, do not use the blog template. Instead, you need to rename "
 "the home.php file to home-old.php instead."
 msgstr ""
-"Si el teu tema fa servir una pàgina d'inici a mida i tu vols mostrar les "
-"darreres entrades en format blog, no facis servir la plantilla de blog. El "
-"que has de fer és canviar el nom de l'arxiu home.php a home-antiga.php, per "
-"exemple."
+"Si el teu tema fa servir una pàgina d'inici personalitzada i tu vols mostrar "
+"les darreres entrades en format blog, no facis servir la plantilla de blog. "
+"El que has de fer és canviar el nom de l'arxiu home.php a home-antiga.php, "
+"per exemple."
 
 #: lib/admin/theme-settings.php:324
 msgid ""
@@ -1129,8 +1130,8 @@ msgid ""
 "href=\"%s\">custom menu</a>, then assign it to the Primary Menu Location."
 msgstr ""
 "Per veure la configuració del menú de navegació primari, primer has de fer "
-"un <a href=\"%s\">menú a mida</a> i després assignar-li la ubicació de Menú "
-"de navegació primari."
+"un <a href=\"%s\">menú personalitzat</a> i després assignar-li la ubicació "
+"de Menú de navegació primari."
 
 #: lib/admin/theme-settings.php:664
 msgid "Display the following:"
@@ -1138,26 +1139,27 @@ msgstr "Mostra el següent:"
 
 #: lib/admin/theme-settings.php:668
 msgid "RSS feed links"
-msgstr "Enllaços del <i>feed</i> RSS"
+msgstr "Enllaços del fil de subscripció RSS"
 
 #: lib/admin/theme-settings.php:704
 msgid "Enter your custom feed URL:"
-msgstr "Introdueix l'URL del teu <i>feed</i> personalitzat:"
+msgstr "Introdueix l'URL del teu fil de subscripció personalitzat:"
 
 #: lib/admin/theme-settings.php:708 lib/admin/theme-settings.php:716
 msgid "Redirect Feed?"
-msgstr "Redireccionar el <i>feed</i>?"
+msgstr "Redireccionar el fil de subscripció?"
 
 #: lib/admin/theme-settings.php:712
 msgid "Enter your custom comments feed URL:"
-msgstr "Introdueix l'URL del teu <i>feed</i> de comentaris personalitzat."
+msgstr ""
+"Introdueix l'URL del teu fil de subscripció de comentaris personalitzat."
 
 #: lib/admin/theme-settings.php:719
 msgid ""
 "If your custom feed(s) are not handled by Feedblitz or Feedburner, do not "
 "use the redirect options."
 msgstr ""
-"Si no fas servir Feedblitz ni Feedburner per als teus <i>feeds</i> "
+"Si no fas servir Feedblitz ni Feedburner per als teus fils de subscripció "
 "personalitzats, no utilitzis les opcions de redirecció."
 
 #: lib/admin/theme-settings.php:804
@@ -1281,7 +1283,7 @@ msgstr "Es mostrarà a l'etiqueta %s a dalt de tot de la pàgina."
 
 #: lib/admin/user-meta.php:119
 msgid "Custom Description Text"
-msgstr "Text de descripció a mida"
+msgstr "Text de descripció personalitzat"
 
 #: lib/admin/user-meta.php:122
 msgid "This text will be the first paragraph, and display on the first page"
@@ -1366,7 +1368,7 @@ msgstr ""
 
 #: lib/admin/whats-new.php:80
 msgid "Support Feedblitz as a feed redirection option."
-msgstr "Fer servir Feedblitz com a opció de redirecció del <i>feed</i>."
+msgstr "Fer servir Feedblitz com a opció de redirecció del fil de subscripció."
 
 #: lib/admin/whats-new.php:81
 msgid "Prevent unnecessary calls to update server."
@@ -1683,7 +1685,7 @@ msgstr "Deixa-ho en blanc si no vols que aparegui cap text d'introducció."
 #: lib/admin/cpt-archive-settings.php:183 lib/admin/inpost-metaboxes.php:46
 #: lib/admin/term-meta.php:102 lib/admin/user-meta.php:176
 msgid "Custom Document Title"
-msgstr "Títol a mida del document"
+msgstr "Títol del document personalitzat"
 
 #: lib/admin/cpt-archive-settings.php:186 lib/admin/term-meta.php:109
 #: lib/admin/user-meta.php:183
@@ -1720,7 +1722,7 @@ msgstr ""
 
 #: lib/admin/cpt-archive-settings.php:231 lib/admin/inpost-metaboxes.php:242
 msgid "Custom Body Class"
-msgstr "Classe a mida pel Body"
+msgstr "Classe del Body personalitzada"
 
 #: lib/admin/cpt-archive-settings.php:247
 msgid "The Archive Headline sets the title seen on the archive page"
@@ -1739,8 +1741,8 @@ msgid ""
 "The Custom Document Title sets the page title as seen in browsers and search "
 "engines. "
 msgstr ""
-"El títol a mida del document és el títol de la pàgina tal com el veuen "
-"navegadors i cercadors"
+"El títol personalitzat del document és el títol de la pàgina tal com el "
+"veuen navegadors i cercadors"
 
 #: lib/admin/cpt-archive-settings.php:276
 msgid ""
@@ -1784,9 +1786,9 @@ msgid ""
 "The Custom Body Class adds a class to the body tag in the HTML to allow CSS "
 "modification exclusively for this post type's archive page."
 msgstr ""
-"La classe a mida pel Body, afegeix una classe a l'etiqueta body, en l'HTML, "
-"que permet modificacions d'estil CSS exclusivament per a la pàgina d'arxiu "
-"d'aquest tipus d'entrada."
+"La classe personalitzada pel Body, afegeix una classe a l'etiqueta body, en "
+"l'HTML, que permet modificacions d'estil CSS exclusivament per a la pàgina "
+"d'arxiu d'aquest tipus d'entrada."
 
 #: lib/admin/customizer.php:89
 msgid "Color Scheme"
@@ -2141,7 +2143,8 @@ msgstr "Com funcionen les pàgines d'inici"
 
 #: lib/admin/theme-settings.php:319
 msgid "Most Genesis child themes include a custom home page."
-msgstr "La majoria de temes de Genesis inclouen una pàgina d'inici a mida."
+msgstr ""
+"La majoria de temes de Genesis inclouen una pàgina d'inici personalitzada."
 
 #: lib/admin/theme-settings.php:387
 msgid "Home Pages"
@@ -2758,11 +2761,11 @@ msgstr "Biografia d'autor"
 
 #: lib/widgets/user-profile-widget.php:175
 msgid "Custom Text (below)"
-msgstr "Text a mida (sota)"
+msgstr "Text personalitzat (sota)"
 
 #: lib/widgets/user-profile-widget.php:176
 msgid "Custom Text Content"
-msgstr "Contingut del text a mida"
+msgstr "Contingut del text personalitzat"
 
 #: lib/widgets/user-profile-widget.php:193
 msgid "Show Author Archive Link?"
